@@ -2,6 +2,7 @@ package com.rafaelvastag.springboot.dto;
 
 import java.io.Serializable;
 
+import javax.persistence.Column;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotEmpty;
 
